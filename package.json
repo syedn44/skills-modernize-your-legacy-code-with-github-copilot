@@ -1,0 +1,29 @@
+{
+  "name": "skills-modernize-your-legacy-code-with-github-copilot",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedn44/skills-modernize-your-legacy-code-with-github-copilot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedn44/skills-modernize-your-legacy-code-with-github-copilot/issues"
+  },
+  "homepage": "https://github.com/syedn44/skills-modernize-your-legacy-code-with-github-copilot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
